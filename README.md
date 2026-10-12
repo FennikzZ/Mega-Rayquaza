@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🔐 Cybers
+# 🐉 Mega Rayquaza
 
-**A web puzzle game about cryptography. Break the code on each level to unlock the next one.**
+**A cybersecurity puzzle game about cryptography. Break the code on each level to unlock the next one.**
 
 ![Go](https://img.shields.io/badge/Go-1.22-00ADD8?logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-REST_API-008ECF)
@@ -17,7 +17,7 @@
 
 ## 📌 Overview
 
-Cybers is a capture-the-flag style decoding game built to teach the basics of cryptography.
+Mega Rayquaza is a capture-the-flag style decoding game built to teach the basics of cryptography.
 Players log in and work through **5 levels**. Each level hides an answer behind a different technique, from hashing to symmetric and asymmetric keys to a secret hidden inside an image.
 Get it right and you move on. Finish them all and your name goes on the board.
 
